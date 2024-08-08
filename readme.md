@@ -13,5 +13,5 @@
 ```
 conda create -n algorithmPractice python=3.8 -y
 conda activate algorithmPractice
-pip install pyQt5 ipykernel
+pip install pyQt5 pymysql
 ```
