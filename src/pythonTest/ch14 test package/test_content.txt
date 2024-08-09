@@ -1,0 +1,5 @@
+from testfunction1 import *
+>>> sum(1,2,3,4,5)
+15
+>>> sum('a',1,2,3,4)
+14
